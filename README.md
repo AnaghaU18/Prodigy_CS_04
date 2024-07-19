@@ -14,22 +14,21 @@ This project is a simple keylogger implemented in Python using the `pynput` libr
 ### Installation
 1. Clone the Repository:
 
-  ```sh
-  
+  ```bash
+  https://github.com/AnaghaU18/Prodigy_Infotech_Task-04.git
   ```
 
 2. Install Dependencies:
-
-   ```bash
-   pip install pynput
-   ```
+```bash
+pip install pynput
+```
 
 ### Usage
 1. Run the Keylogger:
 
-```bash
-python main.py
-```
+  ```bash
+  python main.py
+  ```
 
 2. Start typing (For example: Type in a notepad)
 3. Stop the keylooger by typing "stop". The program is not case sensitive. (Note: If typing on bash/shell, press `Esc` on the keyboard after this step.)
