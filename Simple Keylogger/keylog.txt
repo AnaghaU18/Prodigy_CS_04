@@ -1,0 +1,7 @@
+
+==================================================
+Started on 2024-07-19 12:07:11.158473
+[Key.shift]The[Key.space]keylogger[Key.space]is[Key.space]running[Key.space]in[Key.space]the[Key.space]backgo[Key.backspace]round.[Key.space][Key.shift]Let's[Key.space]stop
+==================================================
+Started on 2024-07-19 12:10:26.434392
+[Key.enter][Key.enter][Key.shift]Theis[Key.backspace][Key.backspace][Key.backspace]is[Key.space]is[Key.space]te[Key.backspace]e[Key.backspace][Key.backspace]the[Key.space]second[Key.space]entry[Key.space]of[Key.space]the[Key.space]keylogger.[Key.space][Key.shift][Key.shift]S[Key.backspace][Key.shift][Key.shift]Stop
